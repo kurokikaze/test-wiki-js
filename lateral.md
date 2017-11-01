@@ -1,4 +1,4 @@
-<!-- TITLE: Lateral -->
-<!-- SUBTITLE: A quick summary of Lateral -->
+<!-- TITLE: Латерал -->
+<!-- SUBTITLE: Ведение партнёрши мимо себя -->
 
 # Lateral
