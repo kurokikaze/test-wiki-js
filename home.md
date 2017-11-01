@@ -4,7 +4,7 @@
 # Test wiki
 ### elements
 
-- [Basic]
+- {{Basic}}
 - [Lateral]
 - [[Cambre]]
 - [[Paraginha]]
