@@ -9,3 +9,5 @@
 - [Cambre](Cambre)
 - [Paraginha](Paraginha)
 - [Viraginha](Viraginha)
+- [Yo-Yo](Yo-Yo)
+- [Lunge](Lunge)
