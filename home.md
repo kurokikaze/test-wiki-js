@@ -30,3 +30,4 @@
 - [Контрбаланс](Counterbalance)
 - [Lunge](Lunge) 
 - [Онда сзади](OndaBack)
+- [Бумеранг](Boumerang)
