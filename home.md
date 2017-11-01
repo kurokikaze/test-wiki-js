@@ -4,8 +4,8 @@
 # Test wiki
 ### elements
 
-- [[Basic]]
-- [[Lateral]]
+- [Basic]
+- [Lateral]
 - [[Cambre]]
 - [[Paraginha]]
 - [[Viraginha]]
