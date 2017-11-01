@@ -7,7 +7,7 @@
 
 - [База](Basic)
 - [Латерал](Lateral)
-  - [Бэк-латерал](Back Lateral)
+  - [Бэк-латерал](BackLateral)
 - [Камбре](Cambre)
 - [Балансо](Balanso)
 - [Онда](Onda)
