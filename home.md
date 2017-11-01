@@ -5,7 +5,7 @@
 ### elements
 
 - [Basic](Basic)
-- [Lateral]
-- [[Cambre]]
-- [[Paraginha]]
-- [[Viraginha]]
+- [Lateral](Lateral)
+- [Cambre](Cambre)
+- [Paraginha](Paraginha)
+- [Viraginha](Viraginha)
