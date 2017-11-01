@@ -2,12 +2,14 @@
 <!-- SUBTITLE: A quick summary of Home -->
 
 # Test wiki
-### elements
+### Базовые элементы
 
-- [Basic](Basic)
-- [Lateral](Lateral)
-- [Cambre](Cambre)
-- [Paraginha](Paraginha)
-- [Viraginha](Viraginha)
-- [Yo-Yo](Yo-Yo)
+- [База](Basic)
+- [Латерал](Lateral)
+- [Камбре](Cambre)
+- [Параджинья](Paraginha)
+- [Вираджинья](Viraginha)
+- [Коридор](Corridor)
+- [Ribbon](Ribbon)
+- [Йо-йо](Yo-Yo)
 - [Lunge](Lunge)
