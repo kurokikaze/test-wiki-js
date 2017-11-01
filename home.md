@@ -4,6 +4,8 @@
 # Test wiki
 ### elements
 
-- one
-- two
-- three
+- [[Basic]]
+- [[Lateral]]
+- [[Cambre]]
+- [[Paraginha]]
+- [[Viraginha]]
