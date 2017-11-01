@@ -1,4 +1,4 @@
-<!-- TITLE: Basic -->
-<!-- SUBTITLE: A quick summary of Basic -->
+<!-- TITLE: Базовый шаг -->
+<!-- SUBTITLE: Основа основ -->
 
 # Basic
