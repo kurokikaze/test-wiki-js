@@ -10,6 +10,7 @@
   - [Бэк-латерал](BackLateral)
 - [Камбре](Cambre)
 - [Балансо](Balanso)
+- [Бонус](Bonus)
 - [Онда](Onda)
   - [Онда с обходом](OndaAround)
   - [Онда в закрытую позицию](OndaClosing)
