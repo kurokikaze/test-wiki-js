@@ -4,3 +4,8 @@
 Делается из [латерала](Lateral) (первый вариант) либо базового шага.
 ## Выполнение
 [video](https://www.youtube.com/watch?v=H4d1DeMAZVs){.youtube}
+
+## Варианты
+### Cambre Passo
+[video](https://www.youtube.com/watch?v=wSuq3dkEDrM){.youtube}
+
