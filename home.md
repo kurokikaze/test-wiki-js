@@ -4,7 +4,7 @@
 # Zouk
 ### Стили зука
 
-- [Brazilian Zouk](BrazilianZouk)
+- [Традиционный зук (Rio Zouk)](RioZouk)
 - [MZouk](MZouk)
 - [Lamba Zouk](LambaZouk)
 - [NeoZouk](NeoZouk)
