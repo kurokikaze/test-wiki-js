@@ -38,5 +38,7 @@
 - [Бумеранг](Boumerang)
 - [Онда с обходом](OndaAround)
 - [Онда в закрытую позицию](OndaClosing)
+- [Онда с остановкой партнёрши](OndaStopping)
+- [Онда в брейкинг](OndaBreaking)
 - [Онда-Чекоч](OndaChicote)
  
