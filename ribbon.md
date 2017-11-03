@@ -1,5 +1,5 @@
-<!-- TITLE: Риббон -->
-<!-- SUBTITLE: Выход из латерала перед партнёршей с поворотом её с правой руки -->
+<!-- TITLE: Раскрытие (Ribbon) -->
+<!-- SUBTITLE: Раскрытие партнёрши -->
 
-# Ribbon
+# Выполнение
 [video](https://www.youtube.com/watch?v=9tqSk1_Yiv0){.youtube}
