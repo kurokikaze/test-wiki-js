@@ -7,5 +7,9 @@
 
 ## Варианты
 ### Cambre Passo
+
 [video](https://www.youtube.com/watch?v=wSuq3dkEDrM){.youtube}
 
+### Камбре из базового шага
+
+[video](/uploads/CambreFromBasic.mp4){.video}
