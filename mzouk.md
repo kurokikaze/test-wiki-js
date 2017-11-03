@@ -5,6 +5,7 @@
 
 # Видео
 [video](https://www.youtube.com/watch?v=MmvxUEOsA88){.youtube}
+[video](https://www.youtube.com/watch?v=VB9XEy0FOG4){.youtube}
 
 # Ссылки
 - [What's Mzouk](http://flaviamzouk.com/whats-mzouk/)
