@@ -15,7 +15,7 @@
 - [Латерал](Lateral)
 - [Камбре](Cambre)
 - [Балансо](Balanso)
-- [Бонус](Bonus)
+- [Бонус (Бумеранг)](Bonus)
 - [Онда](Onda)
 - [Параджинья](Paraginha)
 - [Вираджинья](Viraginha)
@@ -36,7 +36,24 @@
 - [Контрбаланс](Counterbalance)
 - [Lunge](Lunge) 
 - [Онда сзади](OndaBack)
-- [Бумеранг](Boumerang)
+- [Volta au Mundo](VoltaAuMundo)
+
+### Intermediate A элементы
+
+- [Пиау поворот с Бонекой](PiaoWithBoneca)
+- [Колдун](Witch)
+- [Банджи джамп](BungeeJump)
+- [Пау джи асукэр](PaoDeAcucar)
+- [Лисья нора из Тюрьмы](FoxyBurrowFromPrison)
+- [Франгу ассаду](FrangoAssado)
+- [Улитка левая с выходом на бонус с хедворком](Snail)
+- [Улитка двурукая и Реле](TwoHandedSnailRele)
+- [Двойной бонус](DoubleBonus)
+- [Страус правый из аусы](АvestruzRight)
+- [Страус левый из латерау](АvestruzLeft)
+- Балао апогаду (Balão apagado)
+- Нырок партнера из Аусы (Partner's dive from Alca)
+- Хипворки, ганчо и ронды (Heapworks, Ganchos, Ronds)
 
 ### Варианты [онды](Onda)
 
