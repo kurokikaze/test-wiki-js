@@ -27,7 +27,7 @@
 - [Рокамболь](Rocambole)
 - [Барбалетта](Barbaletta)
 - [Коридор](Corridor)
-- [Ribbon](Ribbon)
+- [Раскрытие](Ribbon)
 - [Йо-йо](Yo-Yo)
 - [S-шаг](S-steps)
 
