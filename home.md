@@ -19,7 +19,7 @@
 - [Онда](Onda)
 - [Параджинья](Paraginha)
 - [Вираджинья](Viraginha)
-- [Giro Contratempo](GiroContratempo)
+- [Contratempo](GiroContratempo)
 - [Рокамболь](Rocambole)
 - [Барбалетта](Barbaletta)
 - [Коридор](Corridor)
