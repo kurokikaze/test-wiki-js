@@ -1,0 +1,3 @@
+<!-- TITLE: Ламба-зук -->
+
+Lambazouk (or zouk-lambada or Porto Seguro style) has the closest connection to lambada. Lambazouk dancers use 1-2-3 (or quick-quick-slow) rhythm and dance to a more upbeat music. The dance incorporates the accents of the music with hip movements, deep dips, whip-like head movements and fast turns. Exchanging partners mid-song, leading with only visual contact and strong positive energy are typical for lambazouk.
