@@ -18,9 +18,6 @@
 - [Балансо](Balanso)
 - [Бонус](Bonus)
 - [Онда](Onda)
-  - [Онда с обходом](OndaAround)
-  - [Онда в закрытую позицию](OndaClosing)
-  - [Онда-Чекоч](OndaChicote)
 - [Параджинья](Paraginha)
 - [Вираджинья](Viraginha)
 - [Giro Contratempo](GiroContratempo)
@@ -39,3 +36,7 @@
 - [Lunge](Lunge) 
 - [Онда сзади](OndaBack)
 - [Бумеранг](Boumerang)
+- [Онда с обходом](OndaAround)
+- [Онда в закрытую позицию](OndaClosing)
+- [Онда-Чекоч](OndaChicote)
+ 
