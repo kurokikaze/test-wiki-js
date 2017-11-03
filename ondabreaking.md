@@ -2,4 +2,4 @@
 <!-- SUBTITLE: A quick summary of Ondabreaking -->
 
 # Выполнение
-[video](/files/ondaBreaking.mp4){.video}
+[video](/uploads/ondaBreaking.mp4){.video}
