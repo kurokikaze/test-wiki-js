@@ -2,6 +2,12 @@
 <!-- SUBTITLE: A quick summary of Home -->
 
 # Zouk
+### Стили зука
+
+- [Brazilian Zouk](BrazilianZouk)
+- [MZouk](MZouk)
+- [Lamba Zouk](LambaZouk)
+- [NeoZouk](NeoZouk)
 
 ### Базовые элементы
 
