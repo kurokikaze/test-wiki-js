@@ -30,7 +30,7 @@
 
 ### Продвинутые элементы
 
-- [Boneca](Boneca)
+- [Бонека](Boneca)
 - [Раскрытие с выходом перед партнёршей](RibbonWithForwardStand)
 - [Самолёт](Aeroplane)
 - [Контрбаланс](Counterbalance)
