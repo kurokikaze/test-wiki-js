@@ -1,5 +1,5 @@
 <!-- TITLE: Giro Contratempo -->
-<!-- SUBTITLE: смена с поворотом партнерши справа от себя -->
+<!-- SUBTITLE: Смена с поворотом партнерши справа от себя -->
 
 # Выполнение
 [video](https://www.youtube.com/watch?v=FNUsFbU3ajM){.youtube}
