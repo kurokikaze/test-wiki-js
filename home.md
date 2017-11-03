@@ -37,6 +37,9 @@
 - [Lunge](Lunge) 
 - [Онда сзади](OndaBack)
 - [Бумеранг](Boumerang)
+
+### Варианты [онды](Onda)
+
 - [Онда с обходом](OndaAround)
 - [Онда в закрытую позицию](OndaClosing)
 - [Онда с остановкой партнёрши](OndaStopping)
