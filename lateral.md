@@ -3,4 +3,4 @@
 
 # Lateral
 ## Варианты
-[Латерал сзади](LateralBack)
+[Бэк-Латерал](BackLateral)
