@@ -23,6 +23,7 @@
   - [Онда-Чекоч](OndaChicote)
 - [Параджинья](Paraginha)
 - [Вираджинья](Viraginha)
+- [Giro Contratempo](GiroContratempo)
 - [Рокамболь](Rocambole)
 - [Барбалетта](Barbaletta)
 - [Коридор](Corridor)
