@@ -13,7 +13,6 @@
 
 - [База](Basic)
 - [Латерал](Lateral)
-  - [Бэк-латерал](BackLateral)
 - [Камбре](Cambre)
 - [Балансо](Balanso)
 - [Бонус](Bonus)
@@ -31,6 +30,7 @@
 ### Продвинутые элементы
 
 - [Бонека](Boneca)
+- [Бэк-латерал](BackLateral) 
 - [Раскрытие с выходом перед партнёршей](RibbonWithForwardStand)
 - [Самолёт](Aeroplane)
 - [Контрбаланс](Counterbalance)
