@@ -1,4 +1,4 @@
 <!-- TITLE: Онда с обходом -->
 
 # Выполнение
-[Onda Around](/uploads/OndaAround.mp4 "Onda Around")
+[video](/uploads/OndaAround.mp4  "Онда с обходом"){.video}
