@@ -1,4 +1,4 @@
-<!-- TITLE: Двойной Бонус -->
-<!-- SUBTITLE: A quick summary of Doublebonus -->
+<!-- TITLE: Двойной бонус -->
 
 # Выполнение
+[video](/uploads/DoubleBonus.mp4){.video}
