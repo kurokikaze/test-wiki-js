@@ -1,5 +1,5 @@
 <!-- TITLE: Главная -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- SUBTITLE: Основная страница вики -->
 
 # Zouk
 ### Стили зука
@@ -17,6 +17,7 @@
 - [Балансо](Balanso)
 - [Бонус (Бумеранг)](Bonus)
 - [Онда](Onda)
+- [Тасманский Дьявол](TasmanianDevil)
 - [Параджинья](Paraginha)
 - [Вираджинья](Viraginha)
 - [Contratempo](GiroContratempo)
@@ -29,7 +30,7 @@
 
 ### Продвинутые элементы
 
-- [Бонека](Boneca)
+- [Бонека (Кукла)](Boneca)
 - [Бэк-латерал](BackLateral) 
 - [Раскрытие с выходом перед партнёршей](RibbonWithForwardStand)
 - [Самолёт](Aeroplane)
@@ -44,15 +45,16 @@
 - [Колдун](Witch)
 - [Банджи джамп](BungeeJump)
 - [Пау джи асукэр](PaoDeAcucar)
-- [Лисья нора из Тюрьмы](FoxyBurrowFromPrison)
+- [Тюрьма](Prison)
+- [Лисья нора](FoxyBurrow)
 - [Франгу ассаду](FrangoAssado)
 - [Улитка левая с выходом на бонус с хедворком](Snail)
 - [Улитка двурукая и Реле](TwoHandedSnailRele)
 - [Двойной бонус](DoubleBonus)
-- [Страус правый из аусы](АvestruzRight)
-- [Страус левый из латерау](АvestruzLeft)
-- Балао апогаду (Balão apagado)
-- Нырок партнера из Аусы (Partner's dive from Alca)
+- [Страус правый из аусы](AvestruzRight)
+- [Страус левый из латерау](AvestruzLeft)
+- [Балао апогаду (Balão apagado)](BalaoApagado)
+- [Нырок партнера из Аусы (Partner's dive from Alca)](AlcaDive)
 - Хипворки, ганчо и ронды (Heapworks, Ganchos, Ronds)
 
 ### Варианты [онды](Onda)
